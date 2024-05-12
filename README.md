@@ -1,4 +1,4 @@
-# GUIDJIME ADINSI Ahouahounko - Data Scientist & YouTuber
+# Data Scientist, Statistician, AI/ML Engineer & YouTuber
 
 Hello, I'm **Ahouahounko Télesphore Guidjime Adinsi**, a passionate Data Scientist and AI/ML Engineer with over three years of experience in the data field. I specialize in Machine Learning, Deep Learning, Natural Language Processing, and Generative AI using Large Language Models.
 
