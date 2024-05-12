@@ -1,14 +1,11 @@
 # Data Scientist, Statistician, AI/ML Engineer & YouTuber
 
-Hello, I'm **Ahouahounko Télesphore Guidjime Adinsi**, a passionate Data Scientist and AI/ML Engineer with over three years of experience in the data field. I specialize in Machine Learning, Deep Learning, Natural Language Processing, and Generative AI using Large Language Models.
+Hello, I'm **Ahouahounko Télesphore Guidjime Adinsi**, a passionate Data Scientist and AI/ML Engineer with over three years of experience in the data field. 
+I specialize in Machine learning, Deep learning, Natural Language Processing, and Generative AI using Large Language Models(LLMs). I am proficient in developing advanced statistical models and data-driven solutions to enhance business operations, skilled in a wide range of technologies including Python, R, SQL, SAS and big data platforms.
 
 ## 🚀 About Me
 
 👨‍💻 I'm currently open to opportunities where I can contribute and further develop my skills in Data Science and AI. My recent projects involve deployment of open-source LLMs, fine-tuning models, and developing advanced chatbots using technologies such as Python, R, C/C++, TensorFlow, PyTorch, and various cloud platforms (AWS, GCP, Azure).
-
-## 🎯 About Me
-
-With almost 3 years in the field of Data Science, I specialize in machine learning, deep learning, and generative AI. I am proficient in developing advanced statistical models and data-driven solutions to enhance business operations, skilled in a wide range of technologies including Python, R, SQL, and big data platforms.
 
 ---
 
